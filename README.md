@@ -14,7 +14,7 @@ Compter Engineering And Digital Techinoilgy Chulalomgkon University
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
 
 ## Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=yourGitHubUsername)
+![trophy](https://github-profile-trophy.vercel.app/?username=Phoovich)
 
 ## My streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Phoovich)](https://git.io/streak-stats)
